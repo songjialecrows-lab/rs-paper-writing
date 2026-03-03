@@ -1,0 +1,23 @@
+{
+  "eval_id": 7,
+  "eval_name": "writing-quality-optimization",
+  "prompt": "我的遥感论文初稿已经完成，但感觉表达不够清晰，有些句子过于复杂，逻辑也不够严谨。我想优化论文的写作质量，提升其学术性和可读性。另外，我还需要检查引用是否准确，并确保论文符合学术伦理规范。能否帮我进行全面的写作质量审查和优化？",
+  "assertions": [
+    {
+      "name": "applies-writing-principles",
+      "description": "是否应用了学术写作原则"
+    },
+    {
+      "name": "provides-specific-improvements",
+      "description": "是否提供了具体的改进建议"
+    },
+    {
+      "name": "citation-verification-guidance",
+      "description": "是否指导了引用验证"
+    },
+    {
+      "name": "ethics-compliance-check",
+      "description": "是否进行了学术伦理审查"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "eval_id": 2,
+  "eval_name": "literature-review-guidance",
+  "prompt": "我想进行一个关于遥感图像变化检测的研究。我已经找到了一些相关文献，但不知道如何系统地进行文献综述，如何识别研究的gap，以及如何明确我的研究定位。能否帮我建立文献综述框架，并指导我如何找到自己研究的创新点？",
+  "assertions": [
+    {
+      "name": "provides-search-strategy",
+      "description": "是否提供了系统的文献检索策略"
+    },
+    {
+      "name": "identifies-research-gap",
+      "description": "是否帮助识别了研究gap"
+    },
+    {
+      "name": "clarifies-positioning",
+      "description": "是否明确了研究定位"
+    },
+    {
+      "name": "highlights-innovation",
+      "description": "是否指出了创新点"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "eval_id": 4,
+  "eval_name": "code-to-paper-extraction",
+  "prompt": "我完成了一个遥感图像分类的研究项目，使用了改进的ResNet模型和多源遥感数据融合技术。代码库包含数据预处理、模型训练、验证和结果分析等模块。现在我需要将这个项目转化为论文，但不知道如何从代码中提炼核心贡献和论文素材。能否帮我分析代码结构，识别关键创新点，并指导我如何将这些技术细节转化为论文中的学术内容？",
+  "assertions": [
+    {
+      "name": "identifies-core-contributions",
+      "description": "是否清晰地识别了研究的核心贡献"
+    },
+    {
+      "name": "provides-code-analysis-guidance",
+      "description": "是否提供了具体的代码分析方法"
+    },
+    {
+      "name": "maps-to-paper-sections",
+      "description": "是否指导如何将技术细节映射到论文各部分"
+    },
+    {
+      "name": "actionable-advice",
+      "description": "建议是否具体可行"
+    }
+  ]
+}

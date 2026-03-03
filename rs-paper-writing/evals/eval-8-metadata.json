@@ -1,0 +1,23 @@
+{
+  "eval_id": 8,
+  "eval_name": "submission-preparation",
+  "prompt": "我的论文已经基本完成，现在需要为投稿做最后的准备。我需要检查论文是否符合目标会议（IGARSS）的所有要求，包括格式、字数、图表等。另外，我还需要准备投稿信和作者声明。能否帮我进行投稿前的全面检查，并指导我如何准备投稿材料？",
+  "assertions": [
+    {
+      "name": "provides-checklist",
+      "description": "是否提供了投稿前的全面检查清单"
+    },
+    {
+      "name": "format-compliance",
+      "description": "是否指导了格式规范检查"
+    },
+    {
+      "name": "ethics-review",
+      "description": "是否进行了学术伦理审查"
+    },
+    {
+      "name": "submission-materials",
+      "description": "是否指导了投稿材料的准备"
+    }
+  ]
+}

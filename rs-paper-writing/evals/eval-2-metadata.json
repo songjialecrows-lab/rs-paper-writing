@@ -1,0 +1,23 @@
+{
+  "eval_id": 2,
+  "eval_name": "paper-structure-guidance",
+  "prompt": "我已经有了遥感论文的初步素材，包括研究背景、方法描述和实验结果。现在需要按照IGARSS会议的论文模板来组织内容。我不太清楚如何构建论文的各个部分（摘要、引言、方法、实验、结果、讨论、结论），以及每个部分应该包含哪些内容。能否帮我建立论文框架，并指导我如何逐步充实每个部分？",
+  "assertions": [
+    {
+      "name": "provides-igarss-template-guidance",
+      "description": "是否提供了IGARSS会议论文模板的具体指导"
+    },
+    {
+      "name": "covers-all-sections",
+      "description": "是否覆盖了论文的所有主要部分（摘要、引言、方法、实验、结果、讨论、结论）"
+    },
+    {
+      "name": "section-specific-requirements",
+      "description": "是否为每个部分提供了具体的内容要求和写作要点"
+    },
+    {
+      "name": "logical-flow-guidance",
+      "description": "是否指导了各部分之间的逻辑连贯性"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "eval_id": 1,
+  "eval_name": "idea-evaluation",
+  "prompt": "我有一个初步的研究idea：利用多源遥感数据和深度学习来改进城市建筑物提取的精度。但我不确定这个idea是否足够创新，是否有足够的研究价值。能否帮我评估这个idea的创新性和可行性，并指导我如何完善这个研究问题？",
+  "assertions": [
+    {
+      "name": "evaluates-innovation",
+      "description": "是否评估了研究idea的创新性"
+    },
+    {
+      "name": "assesses-feasibility",
+      "description": "是否评估了研究的可行性"
+    },
+    {
+      "name": "identifies-contributions",
+      "description": "是否指出了潜在的贡献和应用价值"
+    },
+    {
+      "name": "provides-refinement-guidance",
+      "description": "是否提供了完善研究问题的具体建议"
+    }
+  ]
+}

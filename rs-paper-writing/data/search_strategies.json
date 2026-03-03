@@ -1,0 +1,47 @@
+{
+  "abstract": {
+    "depth": "light",
+    "queries_per_concept": 1,
+    "description": "摘要部分 - 轻量搜索"
+  },
+  "introduction": {
+    "depth": "deep",
+    "queries_per_concept": 3,
+    "description": "引言部分 - 深度搜索（20+引用/页）"
+  },
+  "related_work": {
+    "depth": "standard",
+    "queries_per_concept": 2,
+    "description": "相关工作 - 标准搜索（10+引用/页）"
+  },
+  "method": {
+    "depth": "light",
+    "queries_per_concept": 1,
+    "description": "方法部分 - 轻量搜索"
+  },
+  "experiment": {
+    "depth": "light",
+    "queries_per_concept": 1,
+    "description": "实验部分 - 轻量搜索"
+  },
+  "result": {
+    "depth": "light",
+    "queries_per_concept": 1,
+    "description": "结果部分 - 轻量搜索"
+  },
+  "discussion": {
+    "depth": "standard",
+    "queries_per_concept": 2,
+    "description": "讨论部分 - 标准搜索（5+引用/页）"
+  },
+  "conclusion": {
+    "depth": "light",
+    "queries_per_concept": 1,
+    "description": "结论部分 - 轻量搜索"
+  },
+  "other": {
+    "depth": "light",
+    "queries_per_concept": 1,
+    "description": "其他部分 - 轻量搜索"
+  }
+}

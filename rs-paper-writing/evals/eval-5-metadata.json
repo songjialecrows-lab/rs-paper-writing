@@ -1,0 +1,23 @@
+{
+  "eval_id": 5,
+  "eval_name": "results-analysis",
+  "prompt": "我的实验已经完成，得到了一些有趣的结果。但我不知道如何深入分析这些结果，如何解释一些意外的现象，以及如何从结果中提炼关键发现。能否帮我进行结果分析，并指导我如何在论文中呈现这些发现？",
+  "assertions": [
+    {
+      "name": "provides-analysis-methods",
+      "description": "是否提供了深入的结果分析方法"
+    },
+    {
+      "name": "explains-phenomena",
+      "description": "是否指导如何解释实验现象"
+    },
+    {
+      "name": "visualization-guidance",
+      "description": "是否提供了数据可视化建议"
+    },
+    {
+      "name": "finding-extraction",
+      "description": "是否指导如何提炼关键发现"
+    }
+  ]
+}

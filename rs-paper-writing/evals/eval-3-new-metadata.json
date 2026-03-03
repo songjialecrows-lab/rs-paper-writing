@@ -1,0 +1,23 @@
+{
+  "eval_id": 3,
+  "eval_name": "experimental-design",
+  "prompt": "我计划用改进的U-Net模型进行遥感图像分割。我需要设计一个科学严谨的实验方案，包括数据集选择、评估指标、baseline模型、消融实验等。能否帮我规划详细的实验设计方案？",
+  "assertions": [
+    {
+      "name": "dataset-planning",
+      "description": "是否提供了数据集规划指导"
+    },
+    {
+      "name": "metrics-selection",
+      "description": "是否指导了评估指标的选择"
+    },
+    {
+      "name": "baseline-setup",
+      "description": "是否提供了baseline模型设置建议"
+    },
+    {
+      "name": "ablation-design",
+      "description": "是否提供了消融实验设计指导"
+    }
+  ]
+}

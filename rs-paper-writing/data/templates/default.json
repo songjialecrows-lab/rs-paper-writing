@@ -1,0 +1,55 @@
+{
+  "name": "default",
+  "school": "Default University",
+  "description": "默认毕业论文模板 - 标准格式",
+  "page_width": 8.5,
+  "page_height": 11.0,
+  "margin_top": 1.0,
+  "margin_bottom": 1.0,
+  "margin_left": 1.25,
+  "margin_right": 1.25,
+  "body_font": {
+    "name": "宋体",
+    "size": 12,
+    "bold": false,
+    "italic": false,
+    "color": null
+  },
+  "body_paragraph": {
+    "font": {
+      "name": "宋体",
+      "size": 12,
+      "bold": false,
+      "italic": false,
+      "color": null
+    },
+    "alignment": "left",
+    "line_spacing": 1.5,
+    "space_before": 0,
+    "space_after": 0,
+    "indent_first": 0.5
+  },
+  "figure_caption_font": {
+    "name": "宋体",
+    "size": 10,
+    "bold": false,
+    "italic": false,
+    "color": null
+  },
+  "table_caption_font": {
+    "name": "宋体",
+    "size": 10,
+    "bold": false,
+    "italic": false,
+    "color": null
+  },
+  "reference_font": {
+    "name": "宋体",
+    "size": 10,
+    "bold": false,
+    "italic": false,
+    "color": null
+  },
+  "header_text": null,
+  "footer_text": null
+}
